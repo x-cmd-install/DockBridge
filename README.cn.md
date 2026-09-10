@@ -4,7 +4,7 @@
 
 DockBridge is a Go-based client-server system that provisions Hetzner Cloud servers for Docker containers, with laptop lock detection and keep-alive features. It enables seamless Docker workflows by proxying commands to remote Hetzner Cloud instances, managing server lifecycle by user activity and connection status.
 
-![DockBridge](https://repo.x-cmd.io/DockBridge.svg)
+![DockBridge](https://repo.x-cmd.io/DockBridge.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,18 @@ x install DockBridge
 - **最新版本**: `v0.1.0` (2025-12-27)
 - **最近提交**: 2026-01-04
 - **Release 含资产**: 7 个
-- **发布时间**: 2025-12-27T23:33:45Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/checksums.txt) | 550 B | `other` |
+| [dockbridge-darwin-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-darwin-amd64) | 15.9 MiB | `native/darwin/x64` |
+| [dockbridge-darwin-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-darwin-arm64) | 15.2 MiB | `native/darwin/arm64` |
+| [dockbridge-linux-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-linux-amd64) | 15.6 MiB | `native/linux/x64` |
+| [dockbridge-linux-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-linux-arm64) | 14.8 MiB | `native/linux/arm64` |
+| [dockbridge-server-linux-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-server-linux-amd64) | 9.9 MiB | `native/linux/x64` |
+| [dockbridge-server-linux-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-server-linux-arm64) | 9.3 MiB | `native/linux/arm64` |
 
 ## 流行度
 
@@ -61,4 +72,4 @@ DockBridge 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:46:06Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:56:12Z._

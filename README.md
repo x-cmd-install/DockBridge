@@ -22,7 +22,18 @@ x install DockBridge
 - **Latest**: `v0.1.0` (2025-12-27)
 - **Last commit**: 2026-01-04
 - **Assets in release**: 7
-- **Published**: 2025-12-27T23:33:45Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/checksums.txt) | 550 B | `other` |
+| [dockbridge-darwin-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-darwin-amd64) | 15.9 MiB | `native/darwin/x64` |
+| [dockbridge-darwin-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-darwin-arm64) | 15.2 MiB | `native/darwin/arm64` |
+| [dockbridge-linux-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-linux-amd64) | 15.6 MiB | `native/linux/x64` |
+| [dockbridge-linux-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-linux-arm64) | 14.8 MiB | `native/linux/arm64` |
+| [dockbridge-server-linux-amd64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-server-linux-amd64) | 9.9 MiB | `native/linux/x64` |
+| [dockbridge-server-linux-arm64](https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-server-linux-arm64) | 9.3 MiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -57,8 +68,8 @@ Total: **15,240** lines of code across **115** files in the top 5 languages.
 Install metadata for DockBridge lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `DockBridge` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/DockBridge.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/DockBridge.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:56:11Z._
