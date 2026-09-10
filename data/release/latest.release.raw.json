@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16363812,
       "digest": "sha256:b75bda98953bfa9d4e22111553d81c832dd4cb4782af16586ef9350afcf7ef67",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-12-27T23:33:45Z",
       "updated_at": "2025-12-27T23:33:46Z",
       "browser_download_url": "https://github.com/Max-Levitskiy/DockBridge/releases/download/v0.1.0/dockbridge-linux-amd64"
