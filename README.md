@@ -47,12 +47,12 @@ Total: **15,240** lines of code across **115** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-29 | 1 | 3 | 1 | 0 | 0 | 50 |
-| last720d | 2024-12-04 | 1 | 4 | 1 | 0 | 0 | 85 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-30 | 1 | 3 | 1 | 0 | 0 | 50 |
+| last720d | 2024-12-05 | 1 | 4 | 1 | 0 | 0 | 85 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for DockBridge lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:59:35Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:25:11Z._
